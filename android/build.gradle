@@ -34,6 +34,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace 'com.mvpapps.uae_pass_flutter'
     compileSdkVersion 31
 
     compileOptions {
